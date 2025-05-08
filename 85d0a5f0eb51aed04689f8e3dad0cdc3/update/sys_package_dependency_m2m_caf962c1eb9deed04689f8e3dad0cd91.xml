@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Customer Service" source="sn_customerservice">51d811fad7223100b7490ee60e61034f</dependency>
+        <min_version>27.2.14</min_version>
+        <sys_created_by>AurelAdmin</sys_created_by>
+        <sys_created_on>2025-05-02 15:05:01</sys_created_on>
+        <sys_id>caf962c1eb9deed04689f8e3dad0cd91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Loaner Request" source="x_fckv2_loaner_req">85d0a5f0eb51aed04689f8e3dad0cdc3</sys_package>
+        <sys_updated_by>AurelAdmin</sys_updated_by>
+        <sys_updated_on>2025-05-02 15:05:01</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
