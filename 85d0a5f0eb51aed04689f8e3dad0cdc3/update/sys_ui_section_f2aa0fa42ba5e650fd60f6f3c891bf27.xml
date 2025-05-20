@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f2aa0fa42ba5e650fd60f6f3c891bf27" sys_domain="global" table="x_fckv2_loaner_req_loaner_request" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>a94b8be42ba5e650fd60f6f3c891bf48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>1</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>214b8be42ba5e650fd60f6f3c891bf49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_2</element>
+            <position>2</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>a54b8be42ba5e650fd60f6f3c891bf49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_3</element>
+            <position>3</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>2d4b8be42ba5e650fd60f6f3c891bf49</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>a14b8be42ba5e650fd60f6f3c891bf4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>294b8be42ba5e650fd60f6f3c891bf4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <position>6</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>ad4b8be42ba5e650fd60f6f3c891bf4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>7</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>254b8be42ba5e650fd60f6f3c891bf4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>8</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>a94b8be42ba5e650fd60f6f3c891bf4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>214b8be42ba5e650fd60f6f3c891bf4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>a54b8be42ba5e650fd60f6f3c891bf4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>11</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>2d4b8be42ba5e650fd60f6f3c891bf4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>12</position>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:29:14</sys_created_on>
+            <sys_id>a14b8be42ba5e650fd60f6f3c891bf4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_fckv2_loaner_req_loaner_request" sys_domain="global" view="b0d020421b1233009adbdd3bdc4bcb9d">f2aa0fa42ba5e650fd60f6f3c891bf27</sys_ui_section>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:29:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_fckv2_loaner_req_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>AurelAdmin</sys_created_by>
+            <sys_created_on>2025-05-13 14:26:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2aa0fa42ba5e650fd60f6f3c891bf27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_fckv2_loaner_req_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_fckv2_loaner_req">85d0a5f0eb51aed04689f8e3dad0cdc3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">85d0a5f0eb51aed04689f8e3dad0cdc3</sys_scope>
+            <sys_update_name>sys_ui_section_f2aa0fa42ba5e650fd60f6f3c891bf27</sys_update_name>
+            <sys_updated_by>AurelAdmin</sys_updated_by>
+            <sys_updated_on>2025-05-13 14:26:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">b0d020421b1233009adbdd3bdc4bcb9d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
